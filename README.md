@@ -1,6 +1,7 @@
 <h3 align="center">Olá! Boas-vindas 🙋‍♂️</h3>
 
-- 📫 Quer entrar em contato comigo? **andrebemferraz@gmail.com**;
+- 👨‍💻 Tenho preferência especial por Back-End, área que pretendo me especializar como desenvolvedor;
+- 📫 Quer entrar em contato comigo? **andrebemferraz@gmail.com**
 
 <hr/>
 
@@ -23,12 +24,17 @@
 <hr/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/andrebem/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href = "mailto: andrebemferraz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/andrebem/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
 </p>
 
+<h4 align="center">
+Deixei meus melhores repositórios e projetos aqui... 👇
+</h4>
 <h5 align="center">
-Deixei meus melhores repositórios aqui... 👇
+🚨 Disclaimer: A grande maioria dos códigos não foi trabalhado esteticamente (design) ainda. Favor levar mais em conta a "estrutura" e o uso das tecnologias.
 </h5>
+<br />
 
 <!--
 **andredebem/andredebem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
