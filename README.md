@@ -39,7 +39,7 @@ Deixei meus melhores repositórios e projetos aqui... 👇
 
 <div align="center">
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andredebem&repo=mysql-vocabulary-booster&theme=darcula)](https://github.com/andredebem/mysql-vocabulary-booster)
+  
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tryber&repo=sd-07-project-recipes-app&theme=darcula)](https://github.com/tryber/sd-07-project-recipes-app/tree/main-group-34)
   
 </div>
