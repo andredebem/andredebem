@@ -34,7 +34,15 @@ Deixei meus melhores repositórios e projetos aqui... 👇
 <h5 align="center">
 🚨 Disclaimer: A grande maioria dos códigos não foi trabalhado esteticamente (design) ainda. Favor levar mais em conta a "estrutura" e o uso das tecnologias.
 </h5>
+
 <br />
+
+<div align="center">
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andredebem&repo=mysql-vocabulary-booster&theme=darcula)](https://github.com/andredebem/mysql-vocabulary-booster)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tryber&repo=sd-07-project-recipes-app&theme=darcula)](https://github.com/tryber/sd-07-project-recipes-app/tree/main-group-34)
+  
+</div>
 
 <!--
 **andredebem/andredebem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
