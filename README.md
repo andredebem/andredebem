@@ -1,6 +1,6 @@
 <h3 align="center">Olá! Boas-vindas 🙋‍♂️</h3>
 
-- 👨‍💻 Tenho preferência especial por Back-End, área que pretendo me especializar como desenvolvedor;
+- 👨‍💻 Minha preferência é por Back-End, área que pretendo me especializar como desenvolvedor;
 - 📫 Quer entrar em contato comigo? **andrebemferraz@gmail.com**
 
 <hr/>
