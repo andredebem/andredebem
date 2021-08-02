@@ -38,10 +38,12 @@ Deixei meus melhores repositórios e projetos aqui... 👇
 <br />
 
 <div align="center">
-  
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tryber&repo=sd-07-project-recipes-app&theme=darcula)](https://github.com/tryber/sd-07-project-recipes-app/tree/main-group-34)
-  
+  <a href="https://github.com/andredebem/mysql-vocabulary-booster">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andredebem&repo=mysql-vocabulary-booster&theme=darcula" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  </a>
 </div>
 
 <!--
