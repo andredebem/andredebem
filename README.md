@@ -44,6 +44,9 @@ Deixei meus melhores repositórios e projetos aqui... 👇
   <a href="https://github.com/andredebem/trybewallet">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andredebem&repo=trybewallet&theme=darcula" />
   </a>
+  <a href="https://github.com/andredebem/starwars-planets-search">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andredebem&repo=starwars-planets-search&theme=darcula" />
+  </a>
 </div>
 
 <!--
