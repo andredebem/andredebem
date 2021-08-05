@@ -38,11 +38,11 @@ Deixei meus melhores repositórios e projetos aqui... 👇
 <br />
 
 <div align="center">
-  <a href="https://github.com/andredebem/mysql-vocabulary-booster">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andredebem&repo=mysql-vocabulary-booster&theme=darcula" />
-  </a>
   <a href="https://github.com/andredebem/mysql-one-for-all">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andredebem&repo=mysql-one-for-all&theme=darcula" />
+  </a>
+  <a href="https://github.com/andredebem/mysql-vocabulary-booster">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andredebem&repo=mysql-vocabulary-booster&theme=darcula" />
   </a>
   <a href="https://github.com/andredebem/trivia-react-redux">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andredebem&repo=trivia-react-redux&theme=darcula" />
