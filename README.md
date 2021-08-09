@@ -10,8 +10,9 @@
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat=square&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat=square&logo=css3&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat=square&logo=git&logoColor=white)&nbsp;
 ![Javascript](https://img.shields.io/badge/-Javascript-yellow?style=flat=square&logo=javascript&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat=square&logo=git&logoColor=white)&nbsp;
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat=square&logo=visual-studio-code&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat=square&logo=react&logoColor=black)&nbsp;
 ![Context API](https://img.shields.io/badge/-Context%20API-61DAFB?style=flat=square&logo=react&logoColor=black)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat=square&logo=redux&logoColor=white)&nbsp;
