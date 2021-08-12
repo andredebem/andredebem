@@ -1,5 +1,6 @@
 <h3 align="center">Olá! Boas-vindas 🙋‍♂️</h3>
 
+- 💻 Desenvolvedor Web Full-Stack;
 - 👨‍💻 Minha preferência é por Back-End, área que pretendo me especializar como desenvolvedor;
 - 📫 Quer entrar em contato comigo? **andrebemferraz@gmail.com**
 
