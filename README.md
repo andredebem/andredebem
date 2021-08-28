@@ -14,12 +14,15 @@
 ![Javascript](https://img.shields.io/badge/-Javascript-yellow?style=flat=square&logo=javascript&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat=square&logo=git&logoColor=white)&nbsp;
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat=square&logo=visual-studio-code&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat=square&logo=linux&logoColor=black)&nbsp;
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat=square&logo=react&logoColor=black)&nbsp;
-![Context API](https://img.shields.io/badge/-Context%20API-61DAFB?style=flat=square&logo=react&logoColor=black)&nbsp;
+![Hooks](https://img.shields.io/badge/-Hooks-61DAFB?style=flat=square&logo=react&logoColor=black)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat=square&logo=redux&logoColor=white)&nbsp;
-![RTL](https://img.shields.io/badge/-RTL-61DAFB?style=flat=square&logo=react&logoColor=black)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat=square&logo=jest&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat=square&logo=mongodb&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat=square&logo=mysql&logoColor=white)&nbsp;
+![NodeJS](https://img.shields.io/badge/-Node.Js-339933?style=flat=square&logo=node.js&logoColor=white)&nbsp;
+![npm](https://img.shields.io/badge/-npm-CB3837?style=flat=square&logo=npm&logoColor=white)&nbsp;
 
 <br/>
 
