@@ -21,7 +21,7 @@
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat=square&logo=jest&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat=square&logo=mongodb&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat=square&logo=mysql&logoColor=white)&nbsp;
-![NodeJS](https://img.shields.io/badge/-Node.Js-339933?style=flat=square&logo=node.js&logoColor=white)&nbsp;
+![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=flat=square&logo=node.js&logoColor=white)&nbsp;
 ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat=square&logo=npm&logoColor=white)&nbsp;
 
 <br/>
