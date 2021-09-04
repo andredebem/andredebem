@@ -46,8 +46,8 @@ Deixei meus melhores repositórios e projetos aqui... 👇
   <a href="https://github.com/andredebem/talker-manager">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andredebem&repo=talker-manager&theme=darcula" />
   </a>
-  <a href="https://github.com/andredebem/mongodb-dataflights">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andredebem&repo=mongodb-dataflights&theme=darcula" />
+  <a href="https://github.com/andredebem/mongodb-aggregations">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andredebem&repo=mongodb-aggregations&theme=darcula" />
   </a>
   <a href="https://github.com/andredebem/mysql-one-for-all">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andredebem&repo=mysql-one-for-all&theme=darcula" />
