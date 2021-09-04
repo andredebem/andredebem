@@ -52,9 +52,6 @@ Deixei meus melhores repositórios e projetos aqui... 👇
   <a href="https://github.com/andredebem/mysql-one-for-all">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andredebem&repo=mysql-one-for-all&theme=darcula" />
   </a>
-  <a href="https://github.com/andredebem/mysql-vocabulary-booster">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andredebem&repo=mysql-vocabulary-booster&theme=darcula" />
-  </a>
   <a href="https://github.com/andredebem/trivia-react-redux">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andredebem&repo=trivia-react-redux&theme=darcula" />
   </a>
@@ -63,9 +60,6 @@ Deixei meus melhores repositórios e projetos aqui... 👇
   </a>
   <a href="https://github.com/andredebem/starwars-planets-search">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andredebem&repo=starwars-planets-search&theme=darcula" />
-  </a>
-  <a href="https://github.com/andredebem/trybewallet">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andredebem&repo=trybewallet&theme=darcula" />
   </a>
   <a href="https://github.com/andredebem/movie-card-library-crud">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andredebem&repo=movie-card-library-crud&theme=darcula" />
