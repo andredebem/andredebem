@@ -1,7 +1,7 @@
 <h3 align="center">Olá! Boas-vindas 🙋‍♂️</h3>
 
-- 💻 Desenvolvedor Web Full-Stack;
-- 👨‍🎓 Estudante de Engenharia de Software na UDESC e Desenvolvimento de Software na [Trybe](https://www.betrybe.com/);
+- 💻 Desenvolvedor Web Full-Stack formado na [Trybe](https://www.betrybe.com/);
+- 👨‍🎓 Estudante de Engenharia de Software na UDESC;
 - 📫 Quer entrar em contato comigo? **andrebemferraz@gmail.com**
 
 <hr/>
